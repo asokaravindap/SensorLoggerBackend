@@ -1,0 +1,3 @@
+org\uts\service\trafficservice\beans\SensorReadings.class
+org\uts\service\trafficservice\Impl\SensorLoggerImpl.class
+org\uts\service\trafficservice\SensorLogger.class
